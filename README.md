@@ -1,5 +1,6 @@
 ### Hi there 👋, I am Sumit
 #### Full Stack Developer and Youtuber aka Backbench Coder :)
+![Full Stack Developer and Youtuber aka Backbench Coder :)](https://raw.githubusercontent.com/Dey-Sumit/Dey-Sumit/main/Banner.png)
 I am Sumit, currently pursuing my B.Tech degree in Computer Science Engineering as a final year student. I am a full-stack web developer and a Youtuber. I make videos on web development  and web designing, so if it sounds interesting check out my youtube channel
 
 Skills: REACT / JS / HTML / CSS/REACT NATIVE/ EXPRESS / REST API / MONGODB & many more
