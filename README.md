@@ -20,8 +20,8 @@ Skills: REACT / JS / HTML / CSS/REACT NATIVE/ EXPRESS / REST API / MONGODB & man
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dey-Sumit)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dey-Sumit&show_icons=true)  
-
+![Sumit's github stats](https://github-readme-stats.vercel.app/api?username=Dey-Sumit&show_icons=true&theme=radical&show_icons=true)
+  
 ![GitHub metrics](https://metrics.lecoq.io/Dey-Sumit)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Dey-Sumit)  
