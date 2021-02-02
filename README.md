@@ -34,8 +34,9 @@
   <img width="37.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dey-Sumit&count_private=true&theme=tokyonight&line_height=52" />
 </p>
 
-<h1 align="center">❞</h1>
-
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Dey-Sumit)  
+<p align="center">
+ <img width="37.2%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dey-Sumit" />
+  </p>
  
