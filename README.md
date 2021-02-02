@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Sumit
-#### Full Stack Developer and Youtuber aka Backbench Coder :)
+#### Self Made Full Stack Developer and Youtuber aka Backbench Coder :)
 
 
 ![Sumit Dey](https://raw.githubusercontent.com/Dey-Sumit/Dey-Sumit/main/Sumit%20Dey.png)
@@ -14,7 +14,7 @@
   </a>
 
   <a href="https://www.youtube.com/channel/UClW8d1f5m0QAE_Ig024EP6A">
-    <img src="https://img.shields.io/youtube/views/2IzRSHT5Hw8?label=YouTube&logo=YouTube&style=for-the-badge" />
+    <img src="https://img.shields.io/youtube/views/Ew4wlgcUEYk?label=YouTube&logo=YouTube&style=for-the-badge" />
   </a>
 
 </p>
@@ -36,10 +36,8 @@
 - 📫 How to reach me: https://sumitdey.netlify.app/ 
 - ⚡ Fun fact: you don't finish your current project before starting a new one
 
-  
+<p align="center">
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Dey-Sumit)  
-
- 
-
+</p>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Dey-Sumit)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sumit-dey-4a04431a9//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UClW8d1f5m0QAE_Ig024EP6A)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sumitdey.netlify.app/)  
