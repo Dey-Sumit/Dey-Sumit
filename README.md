@@ -1,8 +1,9 @@
-### Hi there 👋, I am Sumit
-#### Self Made Full Stack Developer and Youtuber aka Backbench Coder :)
+
 
 
 ![Sumit Dey](https://raw.githubusercontent.com/Dey-Sumit/Dey-Sumit/main/Sumit%20Dey.png)
+### Hi there 👋, I am Sumit
+#### Self Made Full Stack Developer and Youtuber aka Backbench Coder :)
 
 <p align="center">I am Sumit, currently pursuing my B.Tech degree in Computer Science Engineering as a final year student. I am a full-stack web developer and a Youtuber. I make videos on web development and web designing, so if it sounds interesting check out my
   <a href="https://www.youtube.com/channel/UClW8d1f5m0QAE_Ig024EP6A">
@@ -34,9 +35,7 @@
   <img width="37.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dey-Sumit&count_private=true&theme=tokyonight&line_height=52" />
 </p>
 
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Dey-Sumit)  
 <p align="center">
- <img width="37.2%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dey-Sumit" />
-  </p>
+ <img width="37.2%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dey-Sumit&theme=dark" />
+</p>
  
