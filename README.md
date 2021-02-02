@@ -25,20 +25,12 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight&line_height=52" />
-  <img width="37.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eddiejaoude&count_private=true&theme=tokyonight&line_height=52" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dey-Sumit&show_icons=true&theme=tokyonight&line_height=52" />
+  <img width="37.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dey-Sumit&count_private=true&theme=tokyonight&line_height=52" />
 </p>
 
 <h1 align="center">❞</h1>
 
----
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#129](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/129) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
-2. 🗣 Commented on [#138](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/138) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
-3. 🎉 Merged PR [#17](https://github.com/EddieHubCommunity/Hackathons/pull/17) in [EddieHubCommunity/Hackathons](https://github.com/EddieHubCommunity/Hackathons)
-4. 🗣 Commented on [#17](https://github.com/EddieHubCommunity/Hackathons/issues/17) in [EddieHubCommunity/Hackathons](https://github.com/EddieHubCommunity/Hackathons)
-5. 🗣 Commented on [#138](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/138) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
-<!--END_SECTION:activity-->
 
 - 🔭 I’m currently working on Ticket Booking App  
 - 🌱 I’m currently learning microservice architecture & video editing :) 
