@@ -26,7 +26,7 @@
 - 🌱 I’m currently learning microservice architecture & video editing :) 
 - 💬 Ask me about how to write bugs not code , I am an expert in this :( 
 - 📫 How to reach me: https://sumitdey.netlify.app/ 
-- ⚡ Fun fact: you don't finish your current project before starting a new one
+- ⚡ Fun fact: you don't finish your ongoing project before starting a new one
 
 ---
 
