@@ -36,6 +36,6 @@
 
 <h1 align="center">❞</h1>
 
-<p align="center">
+
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Dey-Sumit)  
-</p> 
+ 
