@@ -1,41 +1,27 @@
+<h1 align="center">Hi 👋, I'm Sumit</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dey-sumit&label=Profile%20views&color=0e75b6&style=flat" alt="dey-sumit" /> </p>
 
+<p align="left"> <a href="https://twitter.com/backbench_coder" target="blank"><img src="https://img.shields.io/twitter/follow/backbench_coder?logo=twitter&style=for-the-badge" alt="backbench_coder" /></a> </p>
 
-![Sumit Dey](https://raw.githubusercontent.com/Dey-Sumit/Dey-Sumit/main/Sumit%20Dey.png)
-### Hi there 👋, I am Sumit
-#### Self Made Full Stack Developer and Youtuber aka Backbench Coder :)
+- 🔭 I’m currently working on [Full Stack Twitter Clone](http://twitterblue.vercel.com)
 
-<p align="center">I am Sumit, currently pursuing my B.Tech degree in Computer Science Engineering as a final year student. I am a full-stack web developer and a Youtuber. I make videos on web development and web designing, so if it sounds interesting check out my
-  <a href="https://www.youtube.com/channel/UClW8d1f5m0QAE_Ig024EP6A">
-    youtube channel</a>  </p>
+- 🌱 I’m currently learning **Next js Advance**
 
-<p align="center">
-  <a href="https://github.com/Dey-Sumit?tab=followers">
-    <img src="https://img.shields.io/github/followers/Dey-Sumit?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
-  </a>
+- 👨‍💻 All of my projects are available at [sumitdey.tech](sumitdey.tech)
 
-  <a href="https://www.youtube.com/channel/UClW8d1f5m0QAE_Ig024EP6A">
-    <img src="https://img.shields.io/youtube/views/Ew4wlgcUEYk?label=YouTube&logo=YouTube&style=for-the-badge" />
-  </a>
+- 📫 How to reach me **dev.sumitdey@gmail.com**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/backbench_coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="backbench_coder" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/backbenchcoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="backbenchcoder" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-- 🔭 I’m currently working on Ticket Booking App  
-- 🌱 I’m currently learning microservice architecture & video editing :) 
-- 💬 Ask me about how to write bugs not code , I am an expert in this :( 
-- 📫 How to reach me: https://sumitdey.netlify.app/ 
-- ⚡ Fun fact: you don't finish your ongoing project before starting a new one
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dey-sumit&show_icons=true&locale=en" alt="dey-sumit" /></p>
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dey-Sumit&show_icons=true&theme=tokyonight&line_height=52" />
-  <img width="37.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dey-Sumit&count_private=true&theme=tokyonight&line_height=52" />
-</p>
-
-<p align="center">
- <img width="37.2%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dey-Sumit&theme=dark" />
-</p>
- 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dey-sumit&" alt="dey-sumit" /></p>
