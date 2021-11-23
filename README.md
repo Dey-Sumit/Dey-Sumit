@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sumit</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<h4 align="center">Frontend Developer at betterhalf</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dey-sumit&label=Profile%20views&color=0e75b6&style=flat" alt="dey-sumit" /> </p>
 
@@ -16,7 +17,8 @@
 
 - 🌱 I’m currently learning **Next js Advance**
 
-- 👨‍💻 All of my projects are available at [sumitdey.tech](sumitdey.tech)
+- 👨‍💻 All of my projects are available at [sumitdey.tech](www.sumitdey.tech)
+- 📄 The project that got me my current job, without being interview : www.sumit-job.vercel.app
 
 - 📫 How to reach me **dev.sumitdey@gmail.com**
 
