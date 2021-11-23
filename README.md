@@ -17,8 +17,8 @@
 
 - 🌱 I’m currently learning **Next js Advance**
 
-- 👨‍💻 All of my projects are available at [sumitdey.tech](www.sumitdey.tech)
-- 📄 The project that got me my current job, without being interview : www.sumit-job.vercel.app
+- 👨‍💻 All of my projects are available at [sumitdey.tech](https://sumitdey.tech)
+- 📄 The project that got me my current job, without being interview : [Sumit-Job](https://sumit-job.vercel.app)
 
 - 📫 How to reach me **dev.sumitdey@gmail.com**
 
