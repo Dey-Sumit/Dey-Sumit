@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dey-sumit&label=Profile%20views&color=0e75b6&style=flat" alt="dey-sumit" /> </p>
 
 
-[<img src="https://img.shields.io/twitter/follow/backbench_coder?logo=twitter&style=for-the-badge" />](https://twitter.com/backbench_coder)
+[<img src="https://img.shields.io/twitter/follow/sumit_zip?logo=twitter&style=for-the-badge" />](https://twitter.com/backbench_coder)
  [<img src="https://img.shields.io/youtube/channel/views/UClW8d1f5m0QAE_Ig024EP6A?logo=youtube&style=for-the-badge">](https://www.youtube.com/c/BackbenchCoder)
 [<img src="https://img.shields.io/github/followers/Dey-Sumit?logo=github&style=for-the-badge&logoColor=white">](https://github.com/Dey-Sumit)
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:dev.sumitdey@gmail.com)
