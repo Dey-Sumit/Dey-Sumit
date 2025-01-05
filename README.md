@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sumit</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<h4 align="center">Frontend Developer at betterhalf</h4>
+<h4 align="center">Frontend Developer at Myntra</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dey-sumit&label=Profile%20views&color=0e75b6&style=flat" alt="dey-sumit" /> </p>
 
@@ -13,11 +13,11 @@
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://sumitdey.tech)
 
 
-- 🔭 I’m currently working on [Full Stack Twitter Clone](https://twitty-blue.vercel.app/)
+- 🔭 I’m currently working on [Markdown to Video](https://markdownvideo.com/)
 
 - 🌱 I’m currently learning **Next js Advance**
 
-- 👨‍💻 All of my projects are available at [sumitdey.tech](https://sumitdey.tech)
+- 👨‍💻 All of my projects are available at [sumitdey.site](https://sumitdey.site)
 - 📄 The project that got me my current job, without being interview : [Sumit-Job](https://sumit-job.vercel.app)
 
 - 📫 How to reach me **dev.sumitdey@gmail.com**
